@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="`![w|Ety~SsZt$X]%,nV" x="0" y="0"></block><block type="device_forever" id="bIC-P:OUTSnOG)l72629" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="z(N?[a_*tQ6VzV86iB^;"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="D6=t@?!E8vN5Zn7IzvI*"><value name="pause"><shadow type="timePicker" id="Pgp]6@#+4ht/)~@CIR~I"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="N`+N43)AR5v#Tl|Xe;pi"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_pause" id="A3L$M;-Y.ggVj2iV]3Lz"><value name="pause"><shadow type="timePicker" id="0WfpN5t;3(F}8DB!d=Ad"><field name="ms">1000</field></shadow></value><next><block type="basic_show_icon" id="3+p_5...uOO1c:[t_=-b"><field name="i">IconNames.Asleep</field><next><block type="device_pause" id=")acg]bfdOtuHc(4;Tpji"><value name="pause"><shadow type="timePicker" id="LdIz~tenpvv||hJos=K3"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
